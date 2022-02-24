@@ -1,0 +1,461 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commune Concilium tent' apud Gresham-House London die Jovis, vicesimo primo die Martii, anno Domini 1666, annoque regin Domini nostri Caroli Secundi, Dei Gratia, Angliæ, Scotiæ, Franciæ &amp; Hiberniæ Regis, Fidei Defensor', &amp;c. decimonono, coram Willielmo Bolton milit' Major Civitat' London, Johanne Lawrence, Thoma Bludworth &amp; Willielmo Turner, militibus &amp; amdermannis, Samuele Starling, armigero, aldermanno, Georgio Waterman, Roberto Hanson &amp; Willielmo Hooker, milit' &amp; aldermannis, &amp; Johanne Moore, armigero, aldermanno, necnon majore parte communiariorum de Communi Concilio ejusdem Civitat' tunc &amp; ibidem assemblat'. Whereas in the act of this present Parliament for re-building the City of London ...</title>
+            <title>Acts &amp; Orders. 1667-03-21.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48990</idno>
+            <idno type="STC">Wing L2852ZA</idno>
+            <idno type="STC">ESTC R214749</idno>
+            <idno type="EEBO-CITATION">99826825</idno>
+            <idno type="PROQUEST">99826825</idno>
+            <idno type="VID">31234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48990)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31234)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1915:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Commune Concilium tent' apud Gresham-House London die Jovis, vicesimo primo die Martii, anno Domini 1666, annoque regin Domini nostri Caroli Secundi, Dei Gratia, Angliæ, Scotiæ, Franciæ &amp; Hiberniæ Regis, Fidei Defensor', &amp;c. decimonono, coram Willielmo Bolton milit' Major Civitat' London, Johanne Lawrence, Thoma Bludworth &amp; Willielmo Turner, militibus &amp; amdermannis, Samuele Starling, armigero, aldermanno, Georgio Waterman, Roberto Hanson &amp; Willielmo Hooker, milit' &amp; aldermannis, &amp; Johanne Moore, armigero, aldermanno, necnon majore parte communiariorum de Communi Concilio ejusdem Civitat' tunc &amp; ibidem assemblat'. Whereas in the act of this present Parliament for re-building the City of London ...</title>
+                  <title>Acts &amp; Orders. 1667-03-21.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Flesher, printer to the Honourable City of London,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>[1667]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon; place and date of publication from Wing.</note>
+                  <note>Year given according to Lady Day dating.</note>
+                  <note>"Naming the high streets and streets of note"--Steele.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  Fire, 1666 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:31234:1" rendition="simple:additions"/>
+            <pb facs="tcp:31234:2"/>
+            <head>
+               <figure>
+                  <figure>
+                     <figDesc>arms</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>arms</figDesc>
+                  </figure>
+               </figure>Commune Concilium tent' apud <hi>Greſham-Houſe <hi>London</hi>
+               </hi> die Jovis, viceſimo primo die <hi>Martii,</hi> Anno Domi<g ref="char:EOLhyphen"/>ni 1666, Annoque Regni Domini noſtri CAROLI Secundi, Dei Gratia, <hi>Angliae, Scotiae, Franciae</hi> &amp; <hi>Hiberniae</hi> Regis, Fidei Defenſor', &amp;c. decimonono, Coram <hi>Willielmo Bolton</hi> Milit', Majore Civitat' <hi>London, Johanne Lawrence, Thoma Bludworth</hi> &amp; <hi>Willielmo Turner,</hi> Militibus &amp; Aldermannis, <hi>Samuele Starling,</hi> Armi<g ref="char:EOLhyphen"/>gero, Aldermanno, <hi>Georgio Waterman, Roberto Hanſon</hi> &amp; <hi>Willielmo Hooker,</hi> Milit' &amp; Aldermannis, &amp; <hi>Johanne Moore,</hi> Armigero, Aldermanno, necnon maiore parte Communiariorum de Communi Concilio ejuſdem Civitat' tunc &amp; ibidem aſſemblat'.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>HEREAS in the Act of this preſent Parliament for</hi> Re-building the City of London <hi>it is contained, That the Lord Mayor, Aldermen and Common-Council of the ſaid City ſhall, on or before the firſt day of</hi> April <hi>next enſuing, declare which and how many ſhall hereafter be accounted and taken to be By-lanes, which and how many ſhall hereafter be deemed Streets or Lanes of Note, and high and principal Streets, by Act of Common-Coun<g ref="char:EOLhyphen"/>cil to be paſſed for that purpoſe:</hi>
+            </p>
+            <p>
+               <hi>Be it therefore Enacted, Ordained and Declared by the right Honoura<g ref="char:EOLhyphen"/>ble the Lord Mayor, the right Worſhipful the Aldermen his Brethren, and the Commons in this Common-Council aſſembled, and by the Authority of the ſame, That all and every the ſeveral Streets, Lanes and places next under mentioned, and all other Streets, Lanes and common Paſſages within this City and Liberties, which are not hereafter in this preſent Act mentioned and declared to be high and principal Streets, ſhall here<g ref="char:EOLhyphen"/>after be deemed Streets or Lanes of Note. That is to ſay,</hi>
+               <list>
+                  <item>Addleſtreet.</item>
+                  <item>Aldermanbury.</item>
+                  <item>Auguſtine-friers.</item>
+                  <item>Abchurch lane</item>
+                  <item>Alhallows lane.</item>
+                  <item>Ave-Mary lane.</item>
+                  <item>Anchor lane, <hi>Thameſtr.</hi>
+                  </item>
+                  <item>Addle-Hill</item>
+                  <item>St. Ann's lane.</item>
+                  <item>St. Andrew's hill.</item>
+                  <item>Auſtin's Court, <hi>Coleman-ſtreet.</hi>
+                  </item>
+                  <item>Baſinghal-ſtreet.</item>
+                  <item>Breadſtreet.</item>
+                  <item>Broadſtreet.</item>
+                  <item>Bucklers-bury.</item>
+                  <item>Budge-row.</item>
+                  <item>Birchin lane.</item>
+                  <item>Bearbinder lane.</item>
+                  <item>Bartholomew lane.</item>
+                  <item>Bow lane.</item>
+                  <item>Baſing lane.</item>
+                  <item>Bride lane.</item>
+                  <item>Butchers-hall lane.</item>
+                  <item>Beer lane.</item>
+                  <item>Buſh lane.</item>
+                  <item>Botolph lane.</item>
+                  <item>Black-friers lane.</item>
+                  <item>Broad lane, <hi>Thameſtreet.</hi>
+                  </item>
+                  <item>Bridewell Dock.</item>
+                  <item>St. Bennet's hill.</item>
+                  <item>Brick-hill lane.</item>
+                  <item>Breadſtreet hill.</item>
+                  <item>Broken wharf.</item>
+                  <item>Bear key.</item>
+                  <item>Brook's wharf.</item>
+                  <item>Bull wharf.</item>
+                  <item>Botolph wharf.</item>
+                  <item>Billingſgate Dock or key.</item>
+                  <item>Barkin alley.</item>
+                  <item>Boſſe alley. <hi>Thameſtr.</hi>
+                  </item>
+                  <item>Black-raven alley. <hi>Thameſtr.</hi>
+                  </item>
+                  <item>Black-ſwan alley. <hi>Thameſtr.</hi>
+                  </item>
+                  <item>Black-boy alley. <hi>Thameſtr.</hi>
+                  </item>
+                  <item>Bell alley. <hi>Thameſtr.</hi>
+                  </item>
+                  <item>Black-horſe alley. <hi>Cole<g ref="char:EOLhyphen"/>manſtr.</hi>
+                  </item>
+                  <item>Bell alley. <hi>Cole<g ref="char:EOLhyphen"/>manſtr.</hi>
+                  </item>
+                  <item>Biſhop's Court. <hi>Cole<g ref="char:EOLhyphen"/>manſtr.</hi>
+                  </item>
+                  <item>Brickington Court. <hi>Cole<g ref="char:EOLhyphen"/>manſtr.</hi>
+                  </item>
+                  <item>Cannon-ſtreet.</item>
+                  <item>Cateaton-ſtreet.</item>
+                  <item>Colemanſtreet.</item>
+                  <item>St. Clement's lane.</item>
+                  <item>Crooked lane.</item>
+                  <item>Cloke lane.</item>
+                  <item>Coſen lane.</item>
+                  <item>Campion lane.</item>
+                  <item>Carter lane.</item>
+                  <item>Creed lane.</item>
+                  <item>Carew lane.</item>
+                  <item>Cow lane.</item>
+                  <item>Cock lane.</item>
+                  <item>Church lane, <hi>Thameſtr.</hi>
+                  </item>
+                  <item>Cock's key.</item>
+                  <item>Cuſtome-houſe key.</item>
+                  <item>Cheſter's key.</item>
+                  <item>College hill.</item>
+                  <item>3. Cranes wharf.</item>
+                  <item>3. Cranes lane.</item>
+                  <item>Common ſtairs, <hi>Thameſt.</hi>
+                  </item>
+                  <item>Cole-harbour.</item>
+                  <item>Cannon alley, <hi>near St. Paul's.</hi>
+                  </item>
+                  <item>Curriers alley, <hi>Shoo-lane.</hi>
+                  </item>
+                  <item>Cradle alley, <hi>Colemanſtr.</hi>
+                  </item>
+                  <item>Churchyard alley. <hi>Thameſtr.</hi>
+                  </item>
+                  <item>Caſtle alley. <hi>Thameſtr.</hi>
+                  </item>
+                  <item>Chequer-yard. <hi>Thameſtr.</hi>
+                  </item>
+                  <item>Diſtaffe lane.</item>
+                  <item>Duxfield lane.</item>
+                  <item>Dice key.</item>
+                  <item>Dowgate Dock.</item>
+                  <item>Dowgate hill.</item>
+                  <item>Dean's Court, <hi>St. Mar<g ref="char:EOLhyphen"/>tins le Grand.</hi>
+                  </item>
+                  <item>Eaſtcheap great.</item>
+                  <item>Eaſtcheap leſs.</item>
+                  <item>Elbow lane.</item>
+                  <item>Ebgate lane, <hi>Thameſtr.</hi>
+                  </item>
+                  <item>Emperour's-head alley, <hi>Thameſtreet.</hi>
+                  </item>
+                  <item>Friday-ſtreet.</item>
+                  <item>Finch lane.</item>
+                  <item>Fleet lane.</item>
+                  <item>Foſter lane.</item>
+                  <item>Fetter lane.</item>
+                  <item>Freſh wharf.</item>
+                  <item>Flower-de-luce alley, <hi>Thameſtreet.</hi>
+                  </item>
+                  <item>Frier alley, <hi>Thameſtreet.</hi>
+                  </item>
+                  <pb facs="tcp:31234:3"/>
+                  <item>Gutter lane.</item>
+                  <item>Green-lettice lane, <hi>Thameſtreet.</hi>
+                  </item>
+                  <item>Galley key.</item>
+                  <item>Garlick Hyth.</item>
+                  <item>Gray-friers.</item>
+                  <item>Gunpowder alley, <hi>Shoo-lane.</hi>
+                  </item>
+                  <item>Glean alley. <hi>Colemanſtreet.</hi>
+                  </item>
+                  <item>George alley. <hi>Colemanſtreet.</hi>
+                  </item>
+                  <item>George alley, <hi>Thameſtr.</hi>
+                  </item>
+                  <item>Grocers alley, <hi>Poultrey.</hi>
+                  </item>
+                  <item>Hartſtreet, <hi>within Criple<g ref="char:EOLhyphen"/>gate.</hi>
+                  </item>
+                  <item>Hony lan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</item>
+                  <item>Haggin la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e.</item>
+                  <item>Harp lane, <hi>Towerſtreet.</hi>
+                  </item>
+                  <item>Harp alley, <hi>Shoo-lane.</hi>
+                  </item>
+                  <item>Ironmonger-lane.</item>
+                  <item>Ivy lane.</item>
+                  <item>Idle lane.</item>
+                  <item>Jeruſalem alley, <hi>Grace-churchſtreet.</hi>
+                  </item>
+                  <item>Knightrider-ſtreet.</item>
+                  <item>King'<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>-head alley, <hi>Shoo-lane.</hi>
+                  </item>
+                  <item>Katherine-wheel alley, <hi>Thameſtreet.</hi>
+                  </item>
+                  <item>Lime-ſtreet.</item>
+                  <item>Lothbury.</item>
+                  <item>St. Laurence lane.</item>
+                  <item>Love lane.</item>
+                  <item>Lillypot lane.</item>
+                  <item>St. Laurence Pountney lane.</item>
+                  <item>Lion key.</item>
+                  <item>Lambeth hill.</item>
+                  <item>Milkſtreet.</item>
+                  <item>Mugwell-ſtreet.</item>
+                  <item>Mark lane.</item>
+                  <item>Minceing lane.</item>
+                  <item>Maiden lane, <hi>St. Thom. Apoſtles.</hi>
+                  </item>
+                  <item>Maiden lane, <hi>near Wood<g ref="char:EOLhyphen"/>ſtreet.</hi>
+                  </item>
+                  <item>St. Michael's lane.</item>
+                  <item>St. Martin's Orgars lane.</item>
+                  <item>St. Martin's lane, <hi>le Grand</hi>
+                  </item>
+                  <item>St. Mary hill.</item>
+                  <item>Noble-ſtreet.</item>
+                  <item>St. Nicolas lane.</item>
+                  <item>Old Fi hſtreet.</item>
+                  <item>Old B ily grea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</item>
+                  <item>Old Baily leſs.</item>
+                  <item>Old Change.</item>
+                  <item>Old Jury.</item>
+                  <item>O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne.</item>
+                  <item>Old-Fiſhſtreet hill.</item>
+                  <item>Old-Swan alley, <hi>Thameſt.</hi>
+                  </item>
+                  <item>Paternoſter row and Amen corner.</item>
+                  <item>Philpot lane.</item>
+                  <item>St. Pancras lane.</item>
+                  <item>Philip lane.</item>
+                  <item>Pitcock lane.</item>
+                  <item>St. Peter's hill.</item>
+                  <item>Paul's wharf.</item>
+                  <item>Porter's key.</item>
+                  <item>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ddle-dock.</item>
+                  <item>Pope's-head alley.</item>
+                  <item>Paul's alley.</item>
+                  <item>Pannier alley.</item>
+                  <item>Piſſing alley, <hi>Fridayſtreet.</hi>
+                  </item>
+                  <item>Paved alley, <hi>Black-friers.</hi>
+                  </item>
+                  <item>Prieſt Court, <hi>Foſter-lane.</hi>
+                  </item>
+                  <item>Queenhyth.</item>
+                  <item>Rotherhyth, <hi>alias</hi> Pudding-lane.</item>
+                  <item>Rood lane.</item>
+                  <item>Ralph's key.</item>
+                  <item>Red-bull alley. <hi>Thameſtreet.</hi>
+                  </item>
+                  <item>Red-croſs alley. <hi>Thameſtreet.</hi>
+                  </item>
+                  <item>Ram alley, <hi>Fleetſtreet.</hi>
+                  </item>
+                  <item>Silver-ſtreet.</item>
+                  <item>Smi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her's l ne.</item>
+                  <item>Suffolk lane.</item>
+                  <item>Smart's key.</item>
+                  <item>Summers k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y.</item>
+                  <item>Sab's deck or key.</item>
+                  <item>See<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hing lane.</item>
+                  <item>Sherborn lane.</item>
+                  <item>St. Swithin's lane.</item>
+                  <item>Soper lane, &amp; ſo to Thames<g ref="char:EOLhyphen"/>ſtreet.</item>
+                  <item>St. Sith's lane.</item>
+                  <item>Sermon lane.</item>
+                  <item>Snow-hill.</item>
+                  <item>Seacole lane.</item>
+                  <item>Shoo-lane.</item>
+                  <item>Salisbury Court.</item>
+                  <item>Stillyard.</item>
+                  <item>Sweeting's alley, <hi>Cornhill.</hi>
+                  </item>
+                  <item>Scotch yard.</item>
+                  <item>Swan alley, <hi>Colemanſtr.</hi>
+                  </item>
+                  <item>Towerſtreet.</item>
+                  <item>Thredneedleſtreet.</item>
+                  <item>Thameſtreet.</item>
+                  <item>Throgmortonſtreet.</item>
+                  <item>Trig lane.</item>
+                  <item>St. Thomas lane.</item>
+                  <item>Trinity lane great.</item>
+                  <item>Trinity lane leſs.</item>
+                  <item>Tower dock.</item>
+                  <item>Tennis-court alley, <hi>Thameſtreet.</hi>
+                  </item>
+                  <item>Vintners lane, <hi>Thameſtr.</hi>
+                  </item>
+                  <item>Walbrook.</item>
+                  <item>Watlingſtreet.</item>
+                  <item>Wood treet g eat.</item>
+                  <item>Wood treet little.</item>
+                  <item>Whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e-friers.</item>
+                  <item>Warwick lane.</item>
+                  <item>Wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er lane, <hi>T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>werſtr.</hi>
+                  </item>
+                  <item>Water lane <hi>Fleetſtreet.</hi>
+                  </item>
+                  <item>Whi e-friers lane.</item>
+                  <item>White-friers dock.</item>
+                  <item>Wiggin's key.</item>
+                  <item>White-horſe yard. <hi>Colemanſt.</hi>
+                  </item>
+                  <item>White-hind alley. <hi>Colemanſt.</hi>
+                  </item>
+                  <item>White's alley. <hi>Colemanſt.</hi>
+                  </item>
+                  <item>White-cock alley, <hi>Thameſtreet.</hi>
+                  </item>
+                  <item>Young's key.</item>
+               </list>
+            </p>
+            <pb facs="tcp:31234:4"/>
+            <p>
+               <hi>And be it farther Enacted, Ordained and Declared by the Authority aforeſaid, That all and every the other Streets under mentioned ſhall hereafter be deemed high and principal Streets: that is to ſay,</hi>
+            </p>
+            <p>
+               <hi>The Street from</hi> Temple-barr <hi>through</hi> St. Paul's Churchyard <hi>into</hi> Cheapſide, <hi>and ſo throughout to</hi> Algate.</p>
+            <p>
+               <hi>The Street from</hi> Newgate <hi>to</hi> Cheapſide.</p>
+            <p>
+               <hi>The intended New Street from</hi> Guildhall <hi>into</hi> Cheapſide.</p>
+            <p>Lumbardſtreet.</p>
+            <p>Fenchurch treet.</p>
+            <p>
+               <hi>The Street from</hi> London-bridge <hi>to</hi> Cornhill <hi>and thence to</hi> Biſhops-gate.</p>
+            <p>Ordered that this Act and Declaration be forthwith Printed and Publiſhed, for the Guidance and information of all perſons concerned to proceed in their reſpective Buildings, according to the Rules, Directions and true meaning of the ſaid Act of Parliament.</p>
+            <closer>
+               <signed>Avery.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>James Fleſher,</hi> Printer to the Honourable City of LONDON.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
